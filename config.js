@@ -2,15 +2,15 @@ require("./database/module")
 
 //GLOBAL PAYMENT
 global.storename = "𝕯𝖊𝖒𝖔𝖓 𝖐𝖎𝖓𝖌"
-global.dana = "2347041039367"
+global.dana = "2349127566707"
 global.qris = false
 
 
 // GLOBAL SETTING
-global.owner = "2347041039367"
+global.owner = "2349127566707"
 global.namabot = "*𝐁𝐋𝐔𝐄𝐃𝐄𝐌𝐎𝐍-𝐕𝟑*"
-global.nomorbot = "2347041039367"
-global.namacreator = "*𝕯𝖊𝖒𝖔𝖓 𝖐𝖎𝖓𝖌* 👾"
+global.nomorbot = "2349127566707"
+global.namacreator = "*I dont give a fuck* 👾"
 global.linkyt = false
 global.autoJoin = false
 global.antilink = false
